@@ -58,6 +58,7 @@ li a:hover {
 }
 h1 {
     font-size: 30pt;
+	border-style: inset;
 }
 
 .info p{
@@ -78,7 +79,7 @@ h1 {
 .floatright p{
     display: block;
     margin-left: 50%
-        
+
         
 }
 .floatleft P{
